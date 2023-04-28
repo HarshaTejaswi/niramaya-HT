@@ -1,6 +1,4 @@
 - links:
-  - name: Pricing
-    link: /pricing/
   - name: Blog
     link: /blog/
   - name: About
@@ -21,6 +19,10 @@
     link: /
     new_window: true
 - links:
+  - name: GitHub
+    link: https://github.com/Project-Niramaya
+    new_window: true
+    social_icon: GitHub
   - name: Facebook
     link: https://facebook.com/cloudcannon/
     new_window: true
