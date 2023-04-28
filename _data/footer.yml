@@ -19,10 +19,10 @@
     link: /
     new_window: true
 - links:
-  - name: GitHub
-    link: https://github.com/Project-Niramaya
+  - name: LinkedIn
+    link: https://www.linkedin.com/company/project-niramaya/
     new_window: true
-    social_icon: GitHub
+    social_icon: LinkedIn
   - name: Facebook
     link: https://facebook.com/cloudcannon/
     new_window: true
